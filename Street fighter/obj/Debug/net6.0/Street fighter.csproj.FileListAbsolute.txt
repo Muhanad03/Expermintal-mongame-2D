@@ -1,0 +1,41 @@
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\Street fighter.exe
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\Street fighter.deps.json
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\Street fighter.runtimeconfig.json
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\Street fighter.dll
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\Street fighter.pdb
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\obj\Debug\net6.0\Street fighter.csproj.AssemblyReference.cache
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\obj\Debug\net6.0\Street fighter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\obj\Debug\net6.0\Street fighter.AssemblyInfoInputs.cache
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\obj\Debug\net6.0\Street fighter.AssemblyInfo.cs
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\obj\Debug\net6.0\Street fighter.csproj.CoreCompileInputs.cache
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\obj\Debug\net6.0\Street fighter.csproj.CopyComplete
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\obj\Debug\net6.0\Street fighter.dll
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\obj\Debug\net6.0\refint\Street fighter.dll
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\obj\Debug\net6.0\Street fighter.pdb
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\obj\Debug\net6.0\Street fighter.genruntimeconfig.cache
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\obj\Debug\net6.0\ref\Street fighter.dll
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\TiledCS.dll
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\Content\exampleTileset.xnb
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\TiledSharp.dll
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\Content\exampleMap.tmx
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\MonoGame.Extended.dll
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\MonoGame.Extended.Collisions.dll
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\MonoGame.Extended.Particles.dll
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\AstarLibrary.dll
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\C5.dll
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\Content\Overworld.xnb
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\Content\player_spritesheet22.xnb
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\Content\player\holdingrun.xnb
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\Content\player\lifting.xnb
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\Content\player\Striking.xnb
+C:\Users\Muhanad\source\repos\Street fighter\Street fighter\bin\Debug\net6.0\Content\player\walking.xnb

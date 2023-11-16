@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Muhanad/source/repos/Street fighter/Street fighter/Content/exampleTileset.png</File>
+    <File>C:/Users/Muhanad/source/repos/Street fighter/Street fighter/Content/File.spritefont</File>
+    <File>C:/Users/Muhanad/source/repos/Street fighter/Street fighter/Content/laser2.wav</File>
+    <File>C:/Users/Muhanad/source/repos/Street fighter/Street fighter/Content/Overworld.png</File>
+    <File>C:/Users/Muhanad/source/repos/Street fighter/Street fighter/Content/tiles.png</File>
+    <File>C:/Users/Muhanad/source/repos/Street fighter/Street fighter/Content/Zombies/1ZombieSpriteSheet.png</File>
+    <File>C:/Users/Muhanad/source/repos/Street fighter/Street fighter/Content/Zombies/2ZombieSpriteSheet.png</File>
+    <File>C:/Users/Muhanad/source/repos/Street fighter/Street fighter/Content/Zombies/3ZombieSpriteSheet.png</File>
+    <File>C:/Users/Muhanad/source/repos/Street fighter/Street fighter/Content/Zombies/4ZombieFrontSPAWN.png</File>
+    <File>C:/Users/Muhanad/source/repos/Street fighter/Street fighter/Content/Zombies/4ZombieSpriteSheet.png</File>
+    <File>C:/Users/Muhanad/source/repos/Street fighter/Street fighter/Content/Zombies/5ZombieSpriteSheet.png</File>
+    <File>C:/Users/Muhanad/source/repos/Street fighter/Street fighter/Content/Zombies/6ZombieFrontSPITTER.png</File>
+    <File>C:/Users/Muhanad/source/repos/Street fighter/Street fighter/Content/Zombies/6ZombieSpriteSheet.png</File>
+    <File>C:/Users/Muhanad/source/repos/Street fighter/Street fighter/Content/Zombies/Slime.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
