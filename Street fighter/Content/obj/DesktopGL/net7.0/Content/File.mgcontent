@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/Muhanad/source/repos/Street fighter/Street fighter/Content/File.spritefont</SourceFile>
-  <SourceTime>2023-08-05T05:08:24.6878811+01:00</SourceTime>
-  <DestFile>C:/Users/Muhanad/source/repos/Street fighter/Street fighter/Content/bin/DesktopGL/Content/File.xnb</DestFile>
-  <DestTime>2023-09-15T03:58:43.8179369+01:00</DestTime>
+  <SourceFile>C:/Users/Muhanad/Source/Repos/Muhanad03/Expermintal-mongame-2D/Street fighter/Content/File.spritefont</SourceFile>
+  <SourceTime>2023-11-16T02:08:52.5269943+00:00</SourceTime>
+  <DestFile>C:/Users/Muhanad/Source/Repos/Muhanad03/Expermintal-mongame-2D/Street fighter/Content/bin/DesktopGL/Content/File.xnb</DestFile>
+  <DestTime>2023-11-16T02:09:26.2189472+00:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2022-07-26T12:44:56+01:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>C:/Users/Muhanad/source/repos/Street fighter/Street fighter/Content/Zombies/3ZombieSpriteSheet.png</SourceFile>
-  <SourceTime>2012-12-24T03:37:52+00:00</SourceTime>
-  <DestFile>C:/Users/Muhanad/source/repos/Street fighter/Street fighter/Content/bin/DesktopGL/Content/Zombies/3ZombieSpriteSheet.xnb</DestFile>
-  <DestTime>2023-09-15T03:58:44.0421373+01:00</DestTime>
+  <SourceFile>C:/Users/Muhanad/Source/Repos/Muhanad03/Expermintal-mongame-2D/Street fighter/Content/Zombies/3ZombieSpriteSheet.png</SourceFile>
+  <SourceTime>2023-11-16T02:08:52.5309976+00:00</SourceTime>
+  <DestFile>C:/Users/Muhanad/Source/Repos/Muhanad03/Expermintal-mongame-2D/Street fighter/Content/bin/DesktopGL/Content/Zombies/3ZombieSpriteSheet.xnb</DestFile>
+  <DestTime>2023-11-16T02:09:26.7600782+00:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T12:44:56+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

@@ -30,8 +30,8 @@ namespace rpg
         public static Vector2 adjustedMousePosRelativeToRes;
         public static EntityManager entityManager;
         //Settings
-        public static bool isFullScreen = true;
-        public static bool mouseVisible = true;
+        public static bool isFullScreen = false;
+        public static bool mouseVisible = false;
         public static bool mutliSampling = true;
         public static bool IsBorderless = false;
         public static int heightRes = (isFullScreen) ? 1440 : 720;

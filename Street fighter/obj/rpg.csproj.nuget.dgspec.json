@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Muhanad\\source\\repos\\Street fighter\\Street fighter\\rpg.csproj": {}
+    "C:\\Users\\Muhanad\\Source\\Repos\\Muhanad03\\Expermintal-mongame-2D\\Street fighter\\rpg.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Muhanad\\source\\repos\\Street fighter\\Street fighter\\rpg.csproj": {
+    "C:\\Users\\Muhanad\\Source\\Repos\\Muhanad03\\Expermintal-mongame-2D\\Street fighter\\rpg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muhanad\\source\\repos\\Street fighter\\Street fighter\\rpg.csproj",
+        "projectUniqueName": "C:\\Users\\Muhanad\\Source\\Repos\\Muhanad03\\Expermintal-mongame-2D\\Street fighter\\rpg.csproj",
         "projectName": "rpg",
-        "projectPath": "C:\\Users\\Muhanad\\source\\repos\\Street fighter\\Street fighter\\rpg.csproj",
+        "projectPath": "C:\\Users\\Muhanad\\Source\\Repos\\Muhanad03\\Expermintal-mongame-2D\\Street fighter\\rpg.csproj",
         "packagesPath": "C:\\Users\\Muhanad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muhanad\\source\\repos\\Street fighter\\Street fighter\\obj\\",
+        "outputPath": "C:\\Users\\Muhanad\\Source\\Repos\\Muhanad03\\Expermintal-mongame-2D\\Street fighter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
