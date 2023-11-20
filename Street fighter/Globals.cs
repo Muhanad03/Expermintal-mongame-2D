@@ -37,5 +37,6 @@ namespace rpg
         public static int heightRes = (isFullScreen) ? 1440 : 720;
         public static int widthRes = (isFullScreen) ? 2560 : 1280;
         public static float framesLimit = 240f;
+        public static int Test = 0;
     }
 }
